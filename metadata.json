@@ -1,0 +1,8 @@
+{
+  "name": "Reymax",
+  "description": "Uma rede social premium foca em conexões por interesses e personalização profunda.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
